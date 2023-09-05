@@ -27,12 +27,14 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Agustin Luis Pasquali
 
-Me gusta ...
+Me gusta el arte... Me gusta resolver problemas y crear cosas, tocar instrumentos musicales, el ping pong, el handball y el diskgolf 
 
-Me dedico a / Trabajo de ...
+Vivo con mi esposa, 7 gatos y 4 perros, son la mejor familia que podria haber elegido
+
+Me dedico a / Trabajo de delivery, ayuda jaja
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![yo parecido a daredevil](daredevill.jpg)
